@@ -11,14 +11,16 @@ $js_extensions =
 "formulahendry.auto-rename-tag",
 "esbenp.prettier-vscode",
 "dbaeumer.vscode-eslint",
-"dsznajder.es7-react-js-snippets"
+"dsznajder.es7-react-js-snippets",
+"albert.TabOut"
 
 $live_server_extension = "ritwickdey.liveserver"
 
 $flutter_extensions =
 "dart-code.flutter",
 "dart-code.dart-code",
-"hirantha.json-to-dart"
+"hirantha.json-to-dart",
+"kisstkondoros.vscode-gutter-preview"
 
 $ps_extension = "ms-vscode.powershell"
 
