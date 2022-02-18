@@ -5,12 +5,13 @@
 - Change touchbar driver to [Windows Precision](https://www.youtube.com/watch?v=f2rfwR-IV-c)
 - [Delete/Uninstall unnecessary windows bloat](https://github.com/NafiAsib/windows-setup/blob/master/debloat.ps1)
 - [Brave Browser](https://brave.com/)
+- [git](https://git-scm.com/download/win)
+  - Setup ssh key
 - [VScode](https://code.visualstudio.com/download)
 - [Copy VSCode settings](https://github.com/NafiAsib/windows-setup/blob/master/vscode/settings.json)
   - settings.json inside `%APPDATA%\Code\User`
   - [Run vscode extension installer script](https://github.com/NafiAsib/windows-setup/blob/master/vscode/extensions.ps1)
 - Run [Ninite (Discord, SumatraPDF, VLC, WinRAR, Zoom)](https://ninite.com/)
-- [git](https://git-scm.com/download/win)
 - [Windows Terminal (**from store**)](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701#activetab=pivot:overviewtab)
   - settings.json inside `%LOCALAPPDATA%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState`
 - [FiraCode Nerd Font](https://www.nerdfonts.com/font-downloads)
