@@ -1,0 +1,66 @@
+{
+  // Theme
+  "workbench.colorTheme": "Ayu Mirage",
+  "workbench.iconTheme": "material-icon-theme",
+
+  // Editor
+  // "editor.lineNumbers": "relative",
+  "editor.wordWrap": "on",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  // Formating rules
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+
+  // Emmet
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+  // terminal
+  "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+
+  // Workspace
+  "workbench.startupEditor": "none",
+  "security.workspace.trust.untrustedFiles": "open",
+
+  // Flutter
+  "dart.debugExternalLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": false,
+    "editor.tabSize": 2
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[cpp]": {
+    "editor.tabSize": 4
+  },
+  "window.zoomLevel": 1
+}
