@@ -6,7 +6,7 @@
 - [Delete/Uninstall unnecessary windows bloat](https://github.com/NafiAsib/windows-setup/blob/master/debloat.ps1)
 - [Brave Browser](https://brave.com/)
 - [git](https://git-scm.com/download/win)
-  - Setup ssh key
+  - [Setup ssh key](https://github.com/NafiAsib/windows-setup/blob/master/settings.ps1)
 - [VScode](https://code.visualstudio.com/download)
 - [Copy VSCode settings](https://github.com/NafiAsib/windows-setup/blob/master/vscode/settings.json)
   - settings.json inside `%APPDATA%\Code\User`
