@@ -22,3 +22,11 @@
 - [Setup Node.js](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-on-windows)
 
 **_To check if bloatware is removed run, `Select-String "name-of-app"`_**
+
+
+### TODO
+- [ ] Add PowerShell setup steps
+
+![WSL2](https://user-images.githubusercontent.com/38901581/154800603-295e1788-9e9b-438b-bebd-adceef332cd3.png)
+![PS-1](https://user-images.githubusercontent.com/38901581/154800607-5cc32cac-5bac-4516-8f89-cabbf0a9a39d.png)
+![PS-2](https://user-images.githubusercontent.com/38901581/154800610-da568d10-1d56-4be0-88de-66e23acb09e7.png)
