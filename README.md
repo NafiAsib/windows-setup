@@ -1,6 +1,6 @@
 # Windows Setup
 
-- Update `[App Installer](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1?activetab=pivot:overviewtab)` from Store.
+- Update [App Installer](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1?activetab=pivot:overviewtab) from Store.
 - [7-zip](https://www.7-zip.org/)
 <!-- - [Activate Windows 10](https://github.com/massgravel/Microsoft-Activation-Scripts) -->
 - Change touchbar driver to [Windows Precision](https://www.youtube.com/watch?v=f2rfwR-IV-c)
