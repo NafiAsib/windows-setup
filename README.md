@@ -1,11 +1,12 @@
 # Windows Setup
 
+- Update `[App Installer](https://www.microsoft.com/en-us/p/app-installer/9nblggh4nns1?activetab=pivot:overviewtab)` from Store.
 - [7-zip](https://www.7-zip.org/)
-- [Activate Windows 10](https://github.com/massgravel/Microsoft-Activation-Scripts)
+<!-- - [Activate Windows 10](https://github.com/massgravel/Microsoft-Activation-Scripts) -->
 - Change touchbar driver to [Windows Precision](https://www.youtube.com/watch?v=f2rfwR-IV-c)
 - [Delete/Uninstall unnecessary windows bloat](https://github.com/NafiAsib/windows-setup/blob/master/debloat.ps1)
 - [Brave Browser](https://brave.com/)
-- [git](https://git-scm.com/download/win)
+- [git](https://git-scm.com/download/win) `winget install --id Git.Git -e --source winget`
   - [Setup ssh key](https://github.com/NafiAsib/windows-setup/blob/master/settings.ps1)
 - [VScode](https://code.visualstudio.com/download)
 - [Copy VSCode settings](https://github.com/NafiAsib/windows-setup/blob/master/vscode/settings.json)
