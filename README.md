@@ -27,6 +27,7 @@
 
 ### TODO
 - [ ] Add PowerShell setup steps
+- [ ] Explore different Windows package manager & write script to install apps
 
 ![WSL2](https://user-images.githubusercontent.com/38901581/154800603-295e1788-9e9b-438b-bebd-adceef332cd3.png)
 ![PS-1](https://user-images.githubusercontent.com/38901581/154800607-5cc32cac-5bac-4516-8f89-cabbf0a9a39d.png)
